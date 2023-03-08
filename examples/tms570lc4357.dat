@@ -1,0 +1,42 @@
+FLASH bank0 {
+  sector  16 kB;
+  sector  16 kB;
+  sector  16 kB;
+  sector  16 kB;
+  sector  16 kB;
+  sector  16 kB;
+  sector  32 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 256 kB;
+  sector 256 kB;
+  sector 256 kB;
+  sector 256 kB;
+  sector 256 kB;
+  sector 256 kB;
+};
+FLASH bank1{
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+  sector 128 kB;
+};
+flash dummy {
+  sector 2 MB;
+};
+flash eeprom {
+  sector 512 bytes;
+};
