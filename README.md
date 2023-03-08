@@ -50,7 +50,7 @@ Example:
 
 The "XXX_sectors.inc" file describe the flash sections.
 
-Each sector with a "begin", an "end" and a "size" symbol wwith 
+Each sector with a "start", an "end" and a "size" symbol wwith 
 
 Example:
 
