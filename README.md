@@ -31,6 +31,7 @@ The 'NAME' is the name of the flash bank and it is used as a prefix
 when generating other symbols.
 
 ====================
+
 Example:
 
 	FLASH bank0 {
